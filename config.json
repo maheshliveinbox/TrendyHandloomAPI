@@ -1,0 +1,18 @@
+﻿{
+    "database": {
+        "host": "localhost",
+        "port": 3306,
+        "user": "root",
+        "password": "7cMmoVA+",
+        "database": "TrendyHandloomDB"
+    },
+    "secret": "cb1418ff-d491-48b9-bf35-49628ee81831",
+    "emailFrom": "clerk.kent.krypton@gmail.com",
+    "smtpOptions": {
+        "service": "gmail",
+        "auth": {
+            "user": "clerk.kent.krypton@gmail.com",
+            "pass": "Success@123"
+        }
+    }
+}
